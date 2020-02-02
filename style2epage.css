@@ -1,0 +1,6 @@
+.texte {
+    color: hotpink;
+}
+.texte:hover{
+   color: blue;
+}

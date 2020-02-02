@@ -1,0 +1,14 @@
+ .stylelink {
+    margin-left: auto;
+    margin-right: auto;
+    margin: 50%;
+}
+
+.styleimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+    margin-top: 10%;
+}
